@@ -14,3 +14,4 @@ I created a smart bin that classifies trash into 4 categories : platisc, paper, 
 
 
 ### Check the video 
+https://youtube.com/shorts/3lhpKLwmLq0?si=Mo7spvwFfHpZ_z4X
